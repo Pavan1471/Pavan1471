@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is PavanKumar I'm a Front End Developer. I am passionate about creating intuitive and engaging interfaces that provide a seamless user experience.<br><br>• Skilled web developer with expertise in HTML, CSS, and JavaScript.<br><br>• Specializes in creating user-friendly and responsive websites that engage and delight users.<br><br>• Experience in creating visually appealing designs that are<br>optimized for performance and functionality.<br><br>• Constantly stays up-to-date with the latest trends and technologies in the field.
+My name is PavanKumar I'm a Front End Developer. I am passionate about creating intuitive and engaging interfaces that provide a seamless user experience.<br><br>• Skilled web developer with expertise in HTML, CSS, and JavaScript.<br><br>• Specializes in creating user-friendly and responsive websites that engage and delight users.<br><br>• Experience in creating visually appealing designs that are optimized for performance and functionality.<br><br>• Constantly stays up-to-date with the latest trends and technologies in the field.
 
 
 ## 🌐 Socials:
